@@ -1,4 +1,5 @@
-# CS648.02_Assignment_1 - React + Express.js + Node.js - Jacob Byerline
+# CS648.02_Assignment_1 - Jacob Byerline
+## React + Express.js + Node.js
 
 This is a demonstration website using React JS, Express.js, and Node.js. 
 
